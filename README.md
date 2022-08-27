@@ -2,6 +2,9 @@
 
 Description: The mission of our project is to help small businesses grow. Our project intends to connect small businesses on one platform. The web application will allow small businesses to register themselves after answering a series of questions. On the user front, a user will be able to filter out the businesses based on their interests. 
 
+Take a look at Spruha and Noah walking through and explaining our website's technical features: https://drive.google.com/file/d/11C_-i6z-nejtzv4LhnKGh_3MhknzlaX7/view?usp=sharing
+
+
 Authors:
 1. Cavin Gada
 2. Noah Valente
