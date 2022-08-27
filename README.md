@@ -2,6 +2,12 @@
 
 Description: The mission of our project is to help small businesses grow. Our project intends to connect small businesses on one platform. The web application will allow small businesses to register themselves after answering a series of questions. On the user front, a user will be able to filter out the businesses based on their interests. 
 
+Authors:
+1. Cavin Gada
+2. Noah Valente
+3. Spruha Paradkar
+4. Hasumi Tanemori
+
 ## How to Set Up
 1. Use `npm install` to install all dependencies.
 2. Use `npm run seed` to populate database with sample data (this may take a while). 
