@@ -1,5 +1,4 @@
 # SmallBiz
-This repo holds all the code for our CS 546 Web Programming final project.
 
 Description: The mission of our project is to help small businesses grow. Our project intends to connect small businesses on one platform. The web application will allow small businesses to register themselves after answering a series of questions. On the user front, a user will be able to filter out the businesses based on their interests. 
 
